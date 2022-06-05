@@ -1,6 +1,6 @@
 # JavaScript-ToDoApp
 
-I created this todo app using HTML, CSS and vanilla javascript.
+Todo app using HTML, CSS and vanilla javascript.
 
 In the javascript part, I selected all elements I want to interact with using document.queryselector.
 
